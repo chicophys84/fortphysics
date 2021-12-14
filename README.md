@@ -21,8 +21,16 @@ Em seguida, execute o arquivo com o comando abaixo
 `$ ./main.out`
 
 ## Sobre o arquibo main.out
+
 O arquivo main.out é ape
- `PROGRAM main
+```PROGRAM main
+
+    USE fortPhysics
+
     implicit none
+
+    print *, 'Constante Magnetica'
+    print *, mu0
+
  END PROGRAM main
- `
+```
