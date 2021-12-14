@@ -20,10 +20,12 @@ Em seguida, execute o arquivo com o comando abaixo
 
 `$ ./main.out`
 
-## Sobre o arquibo main.out
+## Sobre o arquivo main.out
 
 O arquivo main.out é ape
-```PROGRAM main
+
+```
+PROGRAM main
 
     USE fortPhysics
 
