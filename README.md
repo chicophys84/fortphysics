@@ -2,7 +2,7 @@
 ## O que é o Fort Physics
 O Fort Physics é um módulo contendo constantes físicas...
 
-## Instalação
+# Instalação
 Copie os arquivos *fortPhysics.f90* e *main.f90* para a pasta do seu projeto. Dentro desta pasta execute o comando abaixo para compilar o módulo do Fort Physics e gerar um arquivo objeto *fortPhysics.o*.
 
 `$ gfortran -c fortPhysics.f90`
@@ -35,7 +35,7 @@ Para executar este comando é necessário que você tenha o *make* instalado no 
 
 `$ ./install.sh`
 
-## Sobre o arquivo main.out
+# Como Utilizar a Biblioteca fortPhysics
 
 O arquivo main.out é ape
 
