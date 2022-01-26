@@ -20,6 +20,21 @@ Em seguida, execute o arquivo com o comando abaixo
 
 `$ ./main.out`
 
+## Instalação com *makefile*
+
+No mesmo diretório da biblioteca existe um arquivo *makefile* para automatizar as linhas de código acima.
+Desta forma você pode ter o mesmo resultado acima executando o comando
+
+`$ make`
+
+Para executar este comando é necessário que você tenha o *make* instalado no seu sistema.
+
+## Instalação com *makefile*
+
+`$ chmod u+x install.sh`
+
+`$ ./install.sh`
+
 ## Sobre o arquivo main.out
 
 O arquivo main.out é ape
